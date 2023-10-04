@@ -1,0 +1,191 @@
+function Avatar() {
+    return(
+        <svg
+  width="25.540527mm"
+  height="41.340458mm"
+  viewBox="0 0 25.540527 41.340458"
+  version="1.1"
+  id="avatar"
+>
+  <g id="layer1" transform="translate(-69.094192,-120.207)">
+    <path
+      style="
+        fill: #fbd83a;
+        fill-opacity: 1;
+        stroke: none;
+        stroke-width: 0.499999;
+        stroke-linecap: round;
+      "
+      d="m 71.425695,151.45149 c 0,0 -0.53126,-16.72756 0.24496,-19.72331 0.57901,-2.23466 19.8385,-2.67983 20.05808,0.73224 0.1981,3.07816 0.22646,19.61129 0.22646,19.61129 z"
+      id="hair-2-back"
+    />
+    <path
+      style="
+        fill: #1ba47c;
+        fill-opacity: 1;
+        stroke: none;
+        stroke-width: 0.499999;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+      "
+      d="m 81.583744,149.08181 c 0,0 -7.397422,-0.95803 -10.256679,1.03801 -2.321792,1.62084 -2.231633,11.43011 -2.231633,11.43011 l 25.53869,-10e-4 c 0,0 -0.184597,-8.93021 -2.541254,-10.64435 -3.311976,-2.409 -10.509124,-1.82235 -10.509124,-1.82235 z"
+      id="shirt"
+    />
+    <path
+      style="
+        fill: #e9bf8f;
+        fill-opacity: 1;
+        stroke: none;
+        stroke-width: 0.499999;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+      "
+      d="m 77.313823,145.90271 8.647829,-0.002 v 3.23266 l -4.140158,4.14015 -4.510533,-4.46391 z"
+      id="chest"
+    />
+    <path
+      style="
+        fill: #d1a47c;
+        fill-opacity: 1;
+        stroke: none;
+        stroke-width: 0.499999;
+        stroke-linecap: round;
+        stroke-dasharray: none;
+        stroke-opacity: 1;
+      "
+      d="m 77.313131,146.66812 v 1.48449 c 0,0 4.114225,2.97155 8.647762,0.12959 l 0.0013,-1.65815 z"
+      id="neck"
+    />
+    <ellipse
+      style="
+        fill: #e9bf8f;
+        fill-opacity: 1;
+        stroke: none;
+        stroke-width: 1;
+        stroke-opacity: 1;
+      "
+      id="face"
+      cx="81.639084"
+      cy="135.93175"
+      rx="10"
+      ry="12"
+    />
+    <path
+      style="
+        fill: #000000;
+        fill-opacity: 0.265455;
+        stroke: none;
+        stroke-width: 1;
+        stroke-opacity: 1;
+      "
+      d="m 71.626681,136.16461 c 0.03074,0.27881 1.495289,-7.89874 4.068415,-8.78144 2.573123,-0.8827 2.51378,1.20169 6.374376,1.26912 4.090765,0.0714 4.013648,-2.48773 6.249496,0.99508 3.153778,4.91268 3.289673,7.34679 3.289673,7.34679 0,0 2.908522,-8.68664 0.791019,-10.49784 -2.117503,-1.81119 0.980171,-0.89955 0.980171,-0.89955 0,0 1.903071,-1.26982 -5.424832,-2.57915 -7.612743,-1.36023 0.10907,-1.91902 0.10907,-1.91902 0,0 1.132035,-0.78962 -4.403145,-0.49319 -5.762649,0.30862 -4.201511,1.92148 -4.04316,-0.0275 0.130477,-1.60585 -5.306598,2.46561 -6.667005,3.39237 -2.151008,1.46535 -1.554914,5.23015 -1.554914,5.23015 0,0 1.401991,-2.33304 0.403294,1.39935 -0.813236,2.08665 -0.409333,3.41642 -0.172458,5.56478 z"
+      id="hair-1"
+    />
+    <path
+      style="
+        fill: none;
+        fill-opacity: 1;
+        stroke: #000000;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-opacity: 1;
+      "
+      d="M 76.386375,137.3756 H 86.823187"
+      id="path2368"
+    />
+    <ellipse
+      style="
+        fill: #ffffff;
+        fill-opacity: 1;
+        stroke: none;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-opacity: 1;
+      "
+      id="path2370"
+      cx="73.94178"
+      cy="135.72113"
+      rx="1.3200221"
+      ry="1.321294"
+    />
+    <ellipse
+      style="
+        fill: #ffffff;
+        fill-opacity: 1;
+        stroke: none;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-opacity: 1;
+      "
+      id="path2370-3"
+      cx="88.825218"
+      cy="135.63225"
+      rx="1.3200221"
+      ry="1.321294"
+    />
+    <g
+      id="eyes"
+      style="stroke: #22ffff"
+      transform="translate(-0.10351403,39.080063)"
+    >
+      <circle
+        style="
+          fill: #000000;
+          fill-opacity: 1;
+          stroke-width: 0.5;
+          stroke-linecap: round;
+          stroke-dasharray: none;
+          stroke-opacity: 1;
+        "
+        id="path3620"
+        cx="74.615311"
+        cy="96.718712"
+        r="0.5"
+      />
+      <circle
+        style="
+          fill: #000000;
+          fill-opacity: 1;
+          stroke-width: 0.5;
+          stroke-linecap: round;
+          stroke-dasharray: none;
+          stroke-opacity: 1;
+        "
+        id="path3620-6"
+        cx="88.632515"
+        cy="97.048119"
+        r="0.5"
+      />
+    </g>
+    <path
+      style="
+        fill: #fbd83a;
+        fill-opacity: 1;
+        stroke: none;
+        stroke-width: 0.499999;
+        stroke-linecap: round;
+      "
+      d="m 82.527045,125.67309 -0.0541,-0.0899 c -2.68981,4.24572 -10.89878,6.72728 -10.89878,6.72728 0.008,-0.94548 1.64683,-9.51106 10.14536,-9.61513 9.35519,-0.11457 10.0196,9.90735 10.0196,9.90735 0,0 -6.63956,-3.83392 -9.21208,-6.9296 z"
+      id="hair-2-front"
+    />
+    <path
+      style="
+        fill: #000000;
+        fill-opacity: 0.467382;
+        stroke: none;
+        stroke-width: 0.499999;
+        stroke-linecap: round;
+        stroke-opacity: 1;
+      "
+      d="m 71.899241,133.07801 c 2.571461,-7.3247 16.157178,-8.4851 19.254677,0.14558 1.20106,3.34657 3.991273,-4.4678 -4.374919,-9.4942 -2.584408,-1.55271 -7.637471,-1.85013 -10.644898,0.1764 -8.327723,5.61156 -5.11955,11.69222 -4.23486,9.17222 z"
+      id="hair-3"
+    />
+  </g>
+</svg>
+
+    )
+}
+
+export default Avatar;
